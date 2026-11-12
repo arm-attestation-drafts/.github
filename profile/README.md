@@ -4,8 +4,13 @@ This Organization is responsible for maintaining all the Arm Attestation specifi
 
 It will contain any Arm specific profiles for:
 
-1. Attestation Evidence
+A. Attestation Evidence
 
-2. Attestation Endorsements
+* Arm CCA Evidence profile
 
+B. Attestation Endorsements
+
+* Arm PSA Endorsement Profile
+
+* Arm CCA Endorsement Profile
 
